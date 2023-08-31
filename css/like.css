@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.bg-bubbles li {
+  display: none;
+  border-radius: 100px;
+}
+body {
+  background: linear-gradient(to right, #e2b8f7, #d4bafa, #c7bcfb, #b9befb, #acbff9);
+}
